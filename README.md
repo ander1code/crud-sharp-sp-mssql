@@ -1,19 +1,27 @@
-# crud-sharp-sp-mssql
+# CRUD-Sharp-SP-MSSQL
 
-1 - Description
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&color=blue)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?logo=.net&logoColor=white&color=blue)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) 
+![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&logoColor=white)
+![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-sharp-sp-mssql?color=yellow&logo=github) ![Size](https://img.shields.io/github/repo-size/ander1code/crud-sharp-sp-mssql?color=blue&logo=files) ![License](https://img.shields.io/github/license/ander1code/crud-sharp-sp-mssql?color=black&logo=open-source-initiative)
 
-  - Prototype of a Physical person registration system made in C # 3.5 (Visual Studio 2013) using the concept
-    Stored Procedure.
+## 1. Description
+**CRUD-Sharp-SP-MSSQL** is a prototype registration system for physical persons developed in **C#** using **.NET Framework 3.5** and **SQL Server 2014**. The project employs the concept of **Stored Procedures** to manage database operations efficiently.
 
-2 - Tools used
+## 2. Tools Used
+- **IDE:** Visual Studio 2013
+- **Framework:** .NET Framework 3.5
+- **Database:** SQL Server 2014 (.mdf)
 
-  - Visual Studio 2013;
-  - .NET Framework 3.5;
-  - SQL Server 2014 (.mdf);
+## 3. Setup and Comments
+- **Editing Requirements:**
+  - Open the project using **Visual Studio 2013** or higher.
+  - Ensure **SQL Server 2014** is installed on your system.
+- **Database Setup:**
+  - The original project database has been removed due to licensing restrictions.
+  - To test the application:
+    - Update the project with your database connection string.
+    - Execute the provided `.sql` file separately to create the necessary database schema.
 
-3 - Comments
-
-  - Edition
-    - Open the project in Visual Studio 2013 or higher, and have installed SQL SERVER 2014.
-    
-**P.S.:** For licensing reasons, the original project database was deleted. If you want to test, modify the project with your connection string and run the inserted * .sql file separately. 
+---
