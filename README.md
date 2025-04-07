@@ -1,10 +1,14 @@
 # CRUD-Sharp-SP-MSSQL
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&color=blue)
+
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?logo=.net&logoColor=white&color=blue)
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) 
-![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&logoColor=white)
-![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-sharp-sp-mssql?color=yellow&logo=github) ![Size](https://img.shields.io/github/repo-size/ander1code/crud-sharp-sp-mssql?color=blue&logo=files) ![License](https://img.shields.io/github/license/ander1code/crud-sharp-sp-mssql?color=black&logo=open-source-initiative)
+
+![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
+
+![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-sharp-sp-mssql?color=yellow&logo=github)
 
 ## 1. Description
 **CRUD-Sharp-SP-MSSQL** is a prototype registration system for physical persons developed in **C#** using **.NET Framework 3.5** and **SQL Server 2014**. The project employs the concept of **Stored Procedures** to manage database operations efficiently.
